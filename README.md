@@ -1,4 +1,4 @@
-# Frontend-Developer-Assignments
+# Mailmodo Frontend-Developer-Assignments
 Customized Food ordering
 
 Brief overview of the technology:
